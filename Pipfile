@@ -9,6 +9,7 @@ verify_ssl = true
 pandas = "*"
 streamlit = "*"
 matplotlib = "*"
+flask = "*"
 
 [requires]
 python_version = "3.7"
