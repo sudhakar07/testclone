@@ -599,7 +599,7 @@
                 "sha256:f4c5be1a293bae0076d93c88f37ee8da68136744588bc5e2be2f299a34ceb7aa"
             ],
             "index": "pypi",
-            "version": "==227"
+            "version": "*"
         },
         "pywinpty": {
             "hashes": [
